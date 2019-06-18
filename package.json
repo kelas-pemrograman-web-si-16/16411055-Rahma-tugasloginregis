@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon ./bin/www"
   },
-  "author": "Rahmayanti",
+  "author": "Dinda Sari Nopiyanti",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
